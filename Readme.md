@@ -4,4 +4,4 @@ Open http port
 
 git clone https://github.com/JeeKayPee/Server-For-DR-Testing.git
 cd Server-For-DR-Testing
-cd deployServer.sh
+sh deployServer.sh
